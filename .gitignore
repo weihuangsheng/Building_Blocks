@@ -1,0 +1,19 @@
+# Built application files
+*.dat
+
+# Fortran class files
+*.out
+*.mod
+
+# Latex files
+*.aux
+*.log
+*.bbl
+*.spl
+*.gz
+*.blg
+*.pdf
+
+# Others
+*.zip
+*.docx
